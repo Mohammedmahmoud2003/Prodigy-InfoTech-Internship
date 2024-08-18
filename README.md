@@ -1,15 +1,12 @@
 The Prodigy Infotech Online internship has recently concluded, spanning a duration of one month from 1st February to 29th February. Throughout this internship, I had the opportunity to delve into various aspects of web development, particularly focusing on HTML, CSS, and JavaScript. The internship was conducted entirely online, allowing for flexibility and convenience in completing the assigned tasks.
 
-INTERSHIP DURATION: 1 MONTHS [1 FEB - 29 FEB]
+INTERSHIP DURATION: 1 MONTHS [15 jul - 15 Aug]
 
 
 MODE: ONLINE
 
 LANGUAGES : HTML,CSS,JAVASCRIPT
 
-OFFER LETTER:-
-
-![OFFER LETTER](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/1003df5a-3dd6-4a77-a8b9-3c32c5b71644)
 
 5 TASKS :-
 
